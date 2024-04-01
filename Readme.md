@@ -1,6 +1,9 @@
 # Controle de Estoque de Revenda de Veículos
 ### Este é um projeto de controle de estoque de revenda de veículos desenvolvido com Spring Boot, Maven e Java.
 
+![Descrição da imagem](image.jpg)
+
+
 ## Funcionalidades
 - Cadastro de veículos (marca, modelo, ano, etc.)
 - Consulta de veículos disponíveis
