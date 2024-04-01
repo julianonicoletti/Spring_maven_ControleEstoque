@@ -4,6 +4,9 @@
 ![Descrição da imagem](image.jpg)
 
 
+
+
+
 ## Funcionalidades
 - Cadastro de veículos (marca, modelo, ano, etc.)
 - Consulta de veículos disponíveis
@@ -38,6 +41,8 @@
 - GET /carro/blackfriday: Retorna desconto de 15% em todos os carros.
 - GET /motocicleta/blackfriday: Retorna desconto de 15% em todos as motocicletas.
 
+![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png)
+![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
 
 ## Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
