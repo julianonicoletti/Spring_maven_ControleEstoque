@@ -3,15 +3,13 @@
 
 ![Descrição da imagem](image.jpg)
 
-
-
-
-
 ## Funcionalidades
 - Cadastro de veículos (marca, modelo, ano, etc.)
 - Consulta de veículos disponíveis
 - Atualização de informações de veículos
 - Remoção de veículos do estoque
+- Cálculo IPVA
+- Cálculo Desconto no valor de venda
 
 ## Pré-requisitos
 - Java 11 ou superior
@@ -35,17 +33,17 @@
 - PUT /carro/{id}: Atualiza as informações de um carro existente.
 - PUT /motocicleta/{id}: Atualiza as informações de uma motocicleta existente.
 - DELETE /carro/{id}: Remove um carro do estoque.
-- DELETE /carro/{id}: Remove um carro do estoque.
+- DELETE /motocicleta/{id}: Remove uma motocicleta do estoque.
 - GET /carro/ipva/{id}:Retorna o valor do IPVA do carro existente.
 - GET /motocicleta/ipva/{id}:Retorna o valor do IPVA do carro existente.
 - GET /carro/blackfriday: Retorna desconto de 15% em todos os carros.
 - GET /motocicleta/blackfriday: Retorna desconto de 15% em todos as motocicletas.
-
-![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png)
-![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
 
 ## Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
 ## Licença
 Este projeto está licenciado sob a MIT License.
+
+![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png)
+![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
